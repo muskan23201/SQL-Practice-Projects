@@ -1,0 +1,12 @@
+
+employee_id,employee_name,department,salary,city,experience
+101,Amit,HR,35000,Pune,2
+102,Priya,IT,55000,Bangalore,4
+103,Rahul,Finance,45000,Mumbai,3
+104,Neha,IT,65000,Bangalore,5
+105,Ankit,HR,40000,Pune,3
+106,Sneha,Sales,38000,Delhi,2
+107,Vikram,Finance,60000,Mumbai,6
+108,Pooja,Sales,42000,Delhi,4
+109,Rohit,IT,75000,Bangalore,7
+110,Kavita,HR,48000,Pune,5
